@@ -1,4 +1,4 @@
-; Exercise 2.21
+; Exercise 2.21
 (define (square x y) (* x y))
  
 (define (square-list-a items)
